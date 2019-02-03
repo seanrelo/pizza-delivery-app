@@ -4,8 +4,8 @@ This repository is for the Assignment #2 of Pizza Delivery app of NodeJs Master 
 | Route | Description |
 | --- | --- |
 |`/user`| [documentation](documentation/User.md) |
-|`/token`| Descripcion |
-|`/menu`| Descripcion |
+|`/token`| [documentation](documentation/Token.md) |
+|`/menu`| [documentation](documentation/Menu.md) |
 |`/cart`| Descripcion |
 |`/order`| Descripcion |
 
