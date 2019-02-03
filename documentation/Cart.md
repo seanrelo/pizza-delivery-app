@@ -1,4 +1,4 @@
-# Users
+# Carts
 
 * Create a cart
 * Get a cart
