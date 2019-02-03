@@ -113,7 +113,7 @@ userService.deleteUser = function(data,callback){
         _data.delete('users',data.email);
         callback(200,{'Success':'The user was deleted'});
       }else{
-        callback(404,{'Error':'The user doesnt exists'});
+        callback(409,{'Error':'The user doesnt exists'});
       }
     }else{
       callback(403,{'Error':validObject.message});
