@@ -3,7 +3,7 @@ This repository is for the Assignment #2 of Pizza Delivery app of NodeJs Master 
 ## Api Documentation
 | Route | Description |
 | --- | --- |
-|`/user`| Descripcion |
+|`/user`| [documentation](documentation/User.md) |
 |`/token`| Descripcion |
 |`/menu`| Descripcion |
 |`/cart`| Descripcion |
@@ -11,7 +11,7 @@ This repository is for the Assignment #2 of Pizza Delivery app of NodeJs Master 
 
 ## App Configurations
 All the properties are in the `config/param.js` file
-* change the posrt if it´s need it
+* Change the port if it´s need it
 * Change the stripe.com configurations with your own values
 * Change the mailGun configurations with your own values
 
