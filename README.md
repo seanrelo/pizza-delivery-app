@@ -6,8 +6,8 @@ This repository is for the Assignment #2 of Pizza Delivery app of NodeJs Master 
 |`/user`| [documentation](documentation/User.md) |
 |`/token`| [documentation](documentation/Token.md) |
 |`/menu`| [documentation](documentation/Menu.md) |
-|`/cart`| Descripcion |
-|`/order`| Descripcion |
+|`/cart`| [documentation](documentation/Cart.md) |
+|`/order`| [documentation](documentation/Order.md) |
 
 ## App Configurations
 All the properties are in the `config/param.js` file

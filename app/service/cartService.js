@@ -18,7 +18,7 @@ cartService.createCart = function(data,callback){
       if(_objectUtil.isEmptyObject(carts)){
         try{
           _data.create('carts',data.email,data);
-          callback(200,{'Success':'The cart is created'});
+          callback(201,{'Success':'The cart is created'});
         }catch(e){
           callback(500,{'Error':'Could not create the cart'});
         }
