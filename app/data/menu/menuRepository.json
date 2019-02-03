@@ -1,0 +1,5 @@
+[{"pizzaId":1,"name":"Neapolitan","price":10},
+  {"pizzaId":2,"name":"Chicago","price":11},
+  {"pizzaId":3,"name":"Sicilian","price":10},
+  {"pizzaId":4,"name":"Greek","price":12},
+  {"pizzaId":5,"name":"Tomato","price":9}]
